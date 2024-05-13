@@ -1,150 +1,167 @@
-<p align="center">
-  <h1 align="center">BotCity Framework Core - Python</h1>
-
-  <p align="center">
-    <strong>« Explore Framework <a href="https://documentation.botcity.dev/frameworks/desktop/">docs</a> »</strong>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  </p><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BotCity 框架核心 - Python</font></font></h1><a id="user-content-botcity-framework-core---python" class="anchor" aria-label="永久链接：BotCity 框架核心 - Python" href="#botcity-framework-core---python"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  <p align="center" dir="auto">
+    <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« 探索框架</font></font><a href="https://documentation.botcity.dev/frameworks/desktop/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">»</font></font></strong>
   </p>
-</p>
-
+<p dir="auto"></p>
 <br>
-
-## Summary  <!-- omit in toc -->
-
-- [🤖 Computer-vision based UI Automation](#-computer-vision-based-ui-automation)
-- [🐍 Generate Python Code while Interacting with your UI](#-generate-python-code-while-interacting-with-your-ui)
-- [🚀 Getting Started](#-getting-started)
-  - [📦 Prerequisites](#-prerequisites)
-  - [💫 Installing](#-installing)
-  - [⭐ Developing Your First Automation](#-developing-your-first-automation)
-- [📚 Documentation](#-documentation)
-- [💻 Developers Portal](#-developers-portal)
-- [💬 Forum](#-forum)
-- [🌎 BotCity Automation Platform](#-botcity-automation-platform)
-  - [1️⃣  All in One Platform](#1️⃣--all-in-one-platform)
-  - [2️⃣  Deploy with a Single Line](#2️⃣--deploy-with-a-single-line)
-  - [3️⃣  Manage your Task Queue](#3️⃣--manage-your-task-queue)
-  - [4️⃣  Manage your Runtime Environments](#4️⃣--manage-your-runtime-environments)
-  - [5️⃣  Create Alerts and Reports from the Automation Execution](#5️⃣--create-alerts-and-reports-from-the-automation-execution)
-  - [6️⃣  Create your Community Account](#6️⃣--create-your-community-account)
-- [🤝 Contributing to BotCity Framework](#-contributing-to-botcity-framework)
-- [⛑ Support](#-support)
-  - [🐛 Bug reports and 💎 Feature requests](#-bug-reports-and--feature-requests)
-  - [📢 Contact us](#-contact-us)
-- [💡 Related Projects](#-related-projects)
-
-
-## 🤖 Computer-vision based UI Automation
-
-Recognize and interact with UI elements using state-of-art computer vision module.
-
-Operate any UI interface independent of the technology or platform (desktop, web, terminal).
-
-## 🐍 Generate Python Code while Interacting with your UI
-
-Use our Development Tool alongside your favorite IDE to select UI components and generate python code.
-
-[![BotCity Studio](https://files.botcity.dev/github/readme/studio/studio.gif)](https://documentation.botcity.dev/studio/)
-
-[SIGN UP](https://developers.botcity.dev/signup) and download our tools.
-
-
-## 🚀 Getting Started
-
-### 📦 Prerequisites
-* Python 3.7+
-* python3-tk **(Linux Only)**
-* scrot **(Linux Only)**
-* xsel **(Linux Only)**
-* xclip **(Linux Only)**
-
-### 💫 Installing
-
-```bash
-pip install botcity-framework-core
-```
-
-### ⭐ Developing Your First Automation
-
-[![First Automation](https://files.botcity.dev/github/readme/python-core/firstbot.png)](https://documentation.botcity.dev/tutorials/python-automations/desktop/)
-
-## 📚 Documentation
-
-Documentation is available at https://documentation.botcity.dev/frameworks/desktop/.
-
-## 💻 Developers Portal
-
-[![Developers Portal](https://files.botcity.dev/github/readme/portal.png?)](https://documentation.botcity.dev)
-
-## 💬 Forum
-
-[![Forum](https://files.botcity.dev/github/readme/forum.png)](https://community.botcity.dev/)
-
-## 🌎 BotCity Automation Platform
-BotCity is a platform to develop, deploy, manage and maintain automations. Automations can be developed in Python or Java using open-source libraries that are market standard.
-
-### 1️⃣  All in One Platform
-Develop, deploy, manage and scale your Automation Ops using All in One platform that provides task queue, runtime environment management, reports, alerts, logs and much more.
-
-[![BotCity Maestro](https://files.botcity.dev/github/readme/maestro/maestro.png?)](https://documentation.botcity.dev/maestro/)
-
-### 2️⃣  Deploy with a Single Line
-
-Use BotCity command-line interface (CLI) to deploy your bot into a runtime environment with a single line:
-
-[![BotCity CLI](https://files.botcity.dev/github/readme/cli/botcli.gif)](https://documentation.botcity.dev/cli/)
-
-### 3️⃣  Manage your Task Queue
-
-[![BotCity Maestro Task Queue](https://files.botcity.dev/github/readme/maestro/tasks.png?)](https://documentation.botcity.dev/maestro/features/task-queue/)
-
-### 4️⃣  Manage your Runtime Environments
-
-[![BotCity Maestro Machines](https://files.botcity.dev/github/readme/maestro/machines.png?)](https://documentation.botcity.dev/maestro/features/runners/)
-
-### 5️⃣  Create Alerts and Reports from the Automation Execution
-
-#### Alerts
-[![BotCity Maestro Alerts](https://files.botcity.dev/github/readme/maestro/alerts.png?)](https://documentation.botcity.dev/maestro/features/alerts/)
-
-#### Execution Logs
-[![BotCity Maestro Alerts](https://files.botcity.dev/github/readme/maestro/logs.png?)](https://documentation.botcity.dev/maestro/features/logs/)
-
-### 6️⃣  Create your Community Account
-
-We have a community account for hobbyists and students. Just signup and start automating.
-
-[![Sign Up](https://files.botcity.dev/github/readme/signup.png?)](https://developers.botcity.dev/signup)
-
-## 🤝 Contributing to BotCity Framework
-
-- [Guidelines](https://github.com/botcity-dev/botcity-framework-core-python/blob/main/.github/CONTRIBUTING.md)
-- [Documentation](https://documentation.botcity.dev/frameworks/desktop/)
-
-## ⛑ Support
-
-### 🐛 Bug reports and 💎 Feature requests
-
-If you spot a problem, please let us know by following the template in
-here: [Report a bug](https://github.com/botcity-dev/botcity-framework-core-python/issues/new?template=bug-report.md).
-
-Ideas or suggestions for enhancements are more than welcome. Please use the following
-template in here: [Request feature](https://github.com/botcity-dev/botcity-framework-core-python/issues/new?template=feature-request.md).
-
-### 📢 Contact us
-
-If you have questions or comments in general about the framework, we want to know.
-
-You can choose between the channels the one that best fit you:
-
-- [BotCity Community](<https://community.botcity.dev>) (Public)
-
-or you can [file a bug](https://github.com/botcity-dev/botcity-framework-core-python/issues/new?template=bug-report.md) and let us know where our documentation could be improved.
-
-## 💡 Related Projects
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概括  </font></font></h2><a id="user-content-summary--" class="anchor" aria-label="永久链接：总结  " href="#summary--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="#-computer-vision-based-ui-automation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖 基于计算机视觉的 UI 自动化</font></font></a></li>
+<li><a href="#-generate-python-code-while-interacting-with-your-ui"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐍 在与 UI 交互时生成 Python 代码</font></font></a></li>
+<li><a href="#-getting-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 开始使用</font></font></a>
+<ul dir="auto">
+<li><a href="#-prerequisites"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📦 先决条件</font></font></a></li>
+<li><a href="#-installing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💫 安装</font></font></a></li>
+<li><a href="#-developing-your-first-automation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⭐ 开发您的第一个自动化</font></font></a></li>
+</ul>
+</li>
+<li><a href="#-documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚 文档</font></font></a></li>
+<li><a href="#-developers-portal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 开发者门户</font></font></a></li>
+<li><a href="#-forum"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 论坛</font></font></a></li>
+<li><a href="#-botcity-automation-platform"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌎 BotCity 自动化平台</font></font></a>
+<ul dir="auto">
+<li><a href="#1%EF%B8%8F%E2%83%A3--all-in-one-platform"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1️⃣ 多合一平台</font></font></a></li>
+<li><a href="#2%EF%B8%8F%E2%83%A3--deploy-with-a-single-line"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2️⃣ 单线部署</font></font></a></li>
+<li><a href="#3%EF%B8%8F%E2%83%A3--manage-your-task-queue"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3️⃣ 管理您的任务队列</font></font></a></li>
+<li><a href="#4%EF%B8%8F%E2%83%A3--manage-your-runtime-environments"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4️⃣ 管理您的运行时环境</font></font></a></li>
+<li><a href="#5%EF%B8%8F%E2%83%A3--create-alerts-and-reports-from-the-automation-execution"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5️⃣ 通过自动化执行创建警报和报告</font></font></a></li>
+<li><a href="#6%EF%B8%8F%E2%83%A3--create-your-community-account"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6️⃣ 创建您的社区帐户</font></font></a></li>
+</ul>
+</li>
+<li><a href="#-contributing-to-botcity-framework"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤝 为 BotCity 框架做出贡献</font></font></a></li>
+<li><a href="#-support"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⛑ 支持</font></font></a>
+<ul dir="auto">
+<li><a href="#-bug-reports-and--feature-requests"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛 错误报告和 💎 功能请求</font></font></a></li>
+<li><a href="#-contact-us"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📢联系我们</font></font></a></li>
+</ul>
+</li>
+<li><a href="#-related-projects"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💡相关项目</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖 基于计算机视觉的 UI 自动化</font></font></h2><a id="user-content--computer-vision-based-ui-automation" class="anchor" aria-label="永久链接：🤖 基于计算机视觉的 UI 自动化" href="#-computer-vision-based-ui-automation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用最先进的计算机视觉模块识别 UI 元素并与之交互。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">操作独立于技术或平台（桌面、Web、终端）的任何 UI 界面。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐍 在与 UI 交互时生成 Python 代码</font></font></h2><a id="user-content--generate-python-code-while-interacting-with-your-ui" class="anchor" aria-label="永久链接：🐍 在与 UI 交互时生成 Python 代码" href="#-generate-python-code-while-interacting-with-your-ui"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用我们的开发工具和您最喜欢的 IDE 来选择 UI 组件并生成 Python 代码。</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://documentation.botcity.dev/studio/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/b404697265363b62ffcf84b6386324807e1ee3380a1c144c3fd2fb27cb7a8229/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f73747564696f2f73747564696f2e676966" alt="机器人城工作室" data-canonical-src="https://files.botcity.dev/github/readme/studio/studio.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://documentation.botcity.dev/studio/" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="BotCity Studio" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/b404697265363b62ffcf84b6386324807e1ee3380a1c144c3fd2fb27cb7a8229/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f73747564696f2f73747564696f2e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="394"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play BotCity Studio" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play BotCity Studio">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open BotCity Studio in new window" class="AnimatedImagePlayer-button" href="https://documentation.botcity.dev/studio/" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<p dir="auto"><a href="https://developers.botcity.dev/signup" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注册</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并下载我们的工具。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 开始使用</font></font></h2><a id="user-content--getting-started" class="anchor" aria-label="永久链接：🚀 入门" href="#-getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📦 先决条件</font></font></h3><a id="user-content--prerequisites" class="anchor" aria-label="永久链接：📦先决条件" href="#-prerequisites"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 3.7+</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">python3-tk </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（仅限 Linux）</font></font></strong></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">scrot </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（仅限 Linux）</font></font></strong></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">xsel </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（仅限 Linux）</font></font></strong></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">xclip </font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（仅限 Linux）</font></font></strong></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💫 安装</font></font></h3><a id="user-content--installing" class="anchor" aria-label="永久链接：💫 安装" href="#-installing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install botcity-framework-core</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install botcity-framework-core" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⭐ 开发您的第一个自动化</font></font></h3><a id="user-content--developing-your-first-automation" class="anchor" aria-label="永久链接：⭐ 开发您的第一个自动化" href="#-developing-your-first-automation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://documentation.botcity.dev/tutorials/python-automations/desktop/" rel="nofollow"><img src="https://camo.githubusercontent.com/98f45e02d387446a8d0b3c35b240c409539dd19d9813474f1c982f24d11bea72/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f707974686f6e2d636f72652f6669727374626f742e706e67" alt="第一自动化" data-canonical-src="https://files.botcity.dev/github/readme/python-core/firstbot.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚 文档</font></font></h2><a id="user-content--documentation" class="anchor" aria-label="永久链接：📚 文档" href="#-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档可在</font></font><a href="https://documentation.botcity.dev/frameworks/desktop/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://documentation.botcity.dev/frameworks/desktop/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 开发者门户</font></font></h2><a id="user-content--developers-portal" class="anchor" aria-label="永久链接：💻 开发者门户" href="#-developers-portal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://documentation.botcity.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/fb500ae6768220cbf9331db76e75f92ffd152df63aa0c41c7862452de9f39f18/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f706f7274616c2e706e673f" alt="开发者门户" data-canonical-src="https://files.botcity.dev/github/readme/portal.png?" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 论坛</font></font></h2><a id="user-content--forum" class="anchor" aria-label="永久链接：💬 论坛" href="#-forum"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://community.botcity.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/87c53d744402ee31ae72b18edadc161f45624d132533805993d2cda2d574dea2/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f666f72756d2e706e67" alt="论坛" data-canonical-src="https://files.botcity.dev/github/readme/forum.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌎 BotCity 自动化平台</font></font></h2><a id="user-content--botcity-automation-platform" class="anchor" aria-label="永久链接：🌎 BotCity 自动化平台" href="#-botcity-automation-platform"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BotCity 是一个开发、部署、管理和维护自动化的平台。可以使用市场标准的开源库以 Python 或 Java 开发自动化。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1️⃣ 多合一平台</font></font></h3><a id="user-content-1️⃣--all-in-one-platform" class="anchor" aria-label="永久链接：1️⃣ 多合一平台" href="#1️⃣--all-in-one-platform"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用提供任务队列、运行时环境管理、报告、警报、日志等的多合一平台来开发、部署、管理和扩展您的自动化操作。</font></font></p>
+<p dir="auto"><a href="https://documentation.botcity.dev/maestro/" rel="nofollow"><img src="https://camo.githubusercontent.com/fc7d56512836b0a30c8853aac5a4389565ec8c3c9efb749a6b7c82aa01d7dcca/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f6d61657374726f2f6d61657374726f2e706e673f" alt="机器人城市大师" data-canonical-src="https://files.botcity.dev/github/readme/maestro/maestro.png?" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2️⃣ 单线部署</font></font></h3><a id="user-content-2️⃣--deploy-with-a-single-line" class="anchor" aria-label="永久链接：2️⃣ 单行部署" href="#2️⃣--deploy-with-a-single-line"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 BotCity 命令行界面 (CLI)，只需一行即可将机器人部署到运行时环境中：</font></font></p>
+<p dir="auto"><animated-image data-catalyst=""><a href="https://documentation.botcity.dev/cli/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/aa2f6ef353d57228ed1a031f775abdf605b8218bf4f1afb096a17aaee2562280/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f636c692f626f74636c692e676966" alt="BotCity CLI" data-canonical-src="https://files.botcity.dev/github/readme/cli/botcli.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://documentation.botcity.dev/cli/" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="BotCity CLI" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/aa2f6ef353d57228ed1a031f775abdf605b8218bf4f1afb096a17aaee2562280/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f636c692f626f74636c692e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="187"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play BotCity CLI" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play BotCity CLI">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open BotCity CLI in new window" class="AnimatedImagePlayer-button" href="https://documentation.botcity.dev/cli/" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3️⃣ 管理您的任务队列</font></font></h3><a id="user-content-3️⃣--manage-your-task-queue" class="anchor" aria-label="永久链接：3️⃣ 管理你的任务队列" href="#3️⃣--manage-your-task-queue"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://documentation.botcity.dev/maestro/features/task-queue/" rel="nofollow"><img src="https://camo.githubusercontent.com/daf7418f77092d0f21feed39465668155fadbbcc9fdec2bb55d381942c6795b2/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f6d61657374726f2f7461736b732e706e673f" alt="BotCity Maestro 任务队列" data-canonical-src="https://files.botcity.dev/github/readme/maestro/tasks.png?" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4️⃣ 管理您的运行时环境</font></font></h3><a id="user-content-4️⃣--manage-your-runtime-environments" class="anchor" aria-label="永久链接：4️⃣ 管理您的运行时环境" href="#4️⃣--manage-your-runtime-environments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://documentation.botcity.dev/maestro/features/runners/" rel="nofollow"><img src="https://camo.githubusercontent.com/5a8cadd00a5b2422c3d983eaf68c42c012810c7f7d67a2dc03f3aea6a4ffb240/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f6d61657374726f2f6d616368696e65732e706e673f" alt="BotCity 大师机器" data-canonical-src="https://files.botcity.dev/github/readme/maestro/machines.png?" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5️⃣ 通过自动化执行创建警报和报告</font></font></h3><a id="user-content-5️⃣--create-alerts-and-reports-from-the-automation-execution" class="anchor" aria-label="永久链接：5️⃣ 从自动化执行中创建警报和报告" href="#5️⃣--create-alerts-and-reports-from-the-automation-execution"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">警报</font></font></h4><a id="user-content-alerts" class="anchor" aria-label="永久链接：警报" href="#alerts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://documentation.botcity.dev/maestro/features/alerts/" rel="nofollow"><img src="https://camo.githubusercontent.com/4f2c4eece5504d3b1360e3c09cc3fce7bde295133894be1d11d576adbcf3aa31/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f6d61657374726f2f616c657274732e706e673f" alt="BotCity Maestro 警报" data-canonical-src="https://files.botcity.dev/github/readme/maestro/alerts.png?" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执行日志</font></font></h4><a id="user-content-execution-logs" class="anchor" aria-label="永久链接：执行日志" href="#execution-logs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://documentation.botcity.dev/maestro/features/logs/" rel="nofollow"><img src="https://camo.githubusercontent.com/6acd6e64ddec44f454efaa2adb93311d5732ea6f5cb0a12130b801d5ffce0625/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f6d61657374726f2f6c6f67732e706e673f" alt="BotCity Maestro 警报" data-canonical-src="https://files.botcity.dev/github/readme/maestro/logs.png?" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6️⃣ 创建您的社区帐户</font></font></h3><a id="user-content-6️⃣--create-your-community-account" class="anchor" aria-label="永久链接：6️⃣ 创建您的社区帐户" href="#6️⃣--create-your-community-account"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们有一个供业余爱好者和学生使用的社区帐户。只需注册并开始自动化。</font></font></p>
+<p dir="auto"><a href="https://developers.botcity.dev/signup" rel="nofollow"><img src="https://camo.githubusercontent.com/dc23b785b888064272dd6357d93d6cf91cf58a1b434bfdb081fa8a5cf4dd68f1/68747470733a2f2f66696c65732e626f74636974792e6465762f6769746875622f726561646d652f7369676e75702e706e673f" alt="报名" data-canonical-src="https://files.botcity.dev/github/readme/signup.png?" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤝 为 BotCity 框架做出贡献</font></font></h2><a id="user-content--contributing-to-botcity-framework" class="anchor" aria-label="永久链接：🤝 为 BotCity 框架做出贡献" href="#-contributing-to-botcity-framework"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/botcity-dev/botcity-framework-core-python/blob/main/.github/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南</font></font></a></li>
+<li><a href="https://documentation.botcity.dev/frameworks/desktop/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⛑ 支持</font></font></h2><a id="user-content--support" class="anchor" aria-label="永久链接：⛑ 支持" href="#-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛 错误报告和 💎 功能请求</font></font></h3><a id="user-content--bug-reports-and--feature-requests" class="anchor" aria-label="永久链接：🐛 错误报告和 💎 功能请求" href="#-bug-reports-and--feature-requests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您发现问题，请按照此处的模板告知我们：</font></font><a href="https://github.com/botcity-dev/botcity-framework-core-python/issues/new?template=bug-report.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">报告错误</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非常欢迎提出改进的想法或建议。请在此处使用以下模板：</font></font><a href="https://github.com/botcity-dev/botcity-framework-core-python/issues/new?template=feature-request.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请求功能</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📢联系我们</font></font></h3><a id="user-content--contact-us" class="anchor" aria-label="永久链接：📢联系我们" href="#-contact-us"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您对框架有任何疑问或意见，我们想知道。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在以下渠道中选择最适合您的渠道：</font></font></p>
+<ul dir="auto">
+<li><a href="https://community.botcity.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BotCity 社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（公共）</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者您可以</font></font><a href="https://github.com/botcity-dev/botcity-framework-core-python/issues/new?template=bug-report.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交错误</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并让我们知道我们的文档可以在哪里改进。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💡相关项目</font></font></h2><a id="user-content--related-projects" class="anchor" aria-label="永久链接：💡相关项目" href="#-related-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a href="https://github.com/botcity-dev/botcity-framework-web-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botcity-dev&repo=botcity-framework-web-python" />
+  <img align="center" src="https://camo.githubusercontent.com/2988bccb6b59bc0e77b565f21641297c71f606df9804b56fdc7654dc41e59a1f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d626f74636974792d646576267265706f3d626f74636974792d6672616d65776f726b2d7765622d707974686f6e" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=botcity-dev&amp;repo=botcity-framework-web-python" style="max-width: 100%;">
 </a>
 <a href="https://github.com/botcity-dev/botcity-maestro-sdk-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botcity-dev&repo=botcity-maestro-sdk-python" />
+  <img align="center" src="https://camo.githubusercontent.com/219aae8d0b9e5a74f0491b2df05f7869181f3325871363bb6dff6a7bba24a5cf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d626f74636974792d646576267265706f3d626f74636974792d6d61657374726f2d73646b2d707974686f6e" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=botcity-dev&amp;repo=botcity-maestro-sdk-python" style="max-width: 100%;">
 </a>
+</article></div>
